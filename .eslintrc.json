@@ -1,0 +1,4 @@
+{
+  "plugins": ["@junghyeonsu"],
+  "extends": ["next/core-web-vitals", "plugin:@junghyeonsu/auto"]
+}
